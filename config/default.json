@@ -1,0 +1,5 @@
+{
+    "port": "8000",
+    "mongodbUrl": "mongodb+srv://fashionpy:Fashionpy@123@fashionpy.9h1yg7v.mongodb.net/?appName=fashionpy"
+}
+
